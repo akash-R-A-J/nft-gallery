@@ -16,6 +16,12 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Here are some additional contract addresses you can use to test your new NFT Gallery!
+
+0x2106C00Ac7dA0A3430aE667879139E832307AeAa (Loopy Donuts)
+0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D (Bored Ape Yatch Club)
+0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7 (Meebits)
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
