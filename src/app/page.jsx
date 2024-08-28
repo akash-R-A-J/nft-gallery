@@ -10,7 +10,7 @@ const Home = () => {
   const [fetchForCollection, setFetchForCollection] = useState(false);
 
   // Verify API Key Usage
-  console.log("Alchemy API Key:", process.env.ALCHEMY_API_KEY);
+  // console.log("Alchemy API Key:", process.env.ALCHEMY_API_KEY);
 
   const fetchNFTs = async () => {
     let nfts;
